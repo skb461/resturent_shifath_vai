@@ -1,0 +1,26 @@
+
+nav{
+  border-radius: 16px;
+}
+.bg-image{
+  background-image: url('./component/hero/image/chef-cooking.jpeg');
+  background-position: center;
+  background-attachment: scroll;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 700px;
+  border-radius: 35px;
+}
+.bg-image .mask{
+  border-radius: 35px;
+  height: 700px;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.RecipeCard{
+  width: 320px;
+  border-radius: 16px;
+  padding: 20px;
+}
+.RecipeCardImage{
+  border-radius: 16px;
+}
